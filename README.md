@@ -25,8 +25,8 @@ end users.
   ![stars](https://img.shields.io/github/stars/domoticz/domoticz.svg?style=social)
   ![C++ Language][cplusplus-badge]
   ![Java Language][java-badge]
-* [FHEM](https://github.com/mhop/fhem-mirror)
-  ![activity](https://img.shields.io/github/commit-activity/m/freedomotic/freedomotic.svg?style=social)
+* [FHEM](https://github.com/fhem/fhem-mirror)
+  ![activity](https://img.shields.io/github/commit-activity/m/fhem/fhem-mirror.svg?style=social)
   ![Perl Language][perl-badge]
 * [Freedomotic](https://github.com/freedomotic/freedomotic)
   ![stars](https://img.shields.io/github/stars/freedomotic/freedomotic.svg?style=social)
